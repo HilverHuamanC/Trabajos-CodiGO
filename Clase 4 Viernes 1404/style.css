@@ -1,0 +1,21 @@
+html {
+    background-color: pink;
+}
+body {
+    background-color: white;
+    margin: 0;
+    margin-top: 2mm;
+}
+
+header {
+    background-color: yellow;
+}
+
+main{
+    background-color:green
+}
+
+footer{
+    background-color:blue;
+    height: 50px;
+}
